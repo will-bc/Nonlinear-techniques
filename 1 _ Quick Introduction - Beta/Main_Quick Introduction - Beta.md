@@ -23,7 +23,7 @@ The following example represent a way to identify an chaotic system:
 
 Logic behavior (or equation): 
 
-$x_{i}= ax_{i-1}(1-x_{i-1})$
+![gif](eq1.gif)
 
 Graphical behavior converge to single state (Y axis is 0.6): 
 
