@@ -2,7 +2,7 @@
 # NonLinear Techniques 
 
 
-The common sense, even when we learn at school, generaly bring us a linearity thinking, the dedution of cause and directly effect. A sum tend to be better, always more and a subtraction like worst, lose of something, it is minus than previous. In fact to consilidate an act we need to align our thoughts and focus in one action (or one variable for time to resolve an equation or problem) . Besides linear intuition, unconsciouness thinking brings us a chaos of abstract process that we take time to learn and absorb as a real advantage. 
+The common sense, even when we are learning at school, generaly bring us a linearity thinking, the dedution of cause and directly effect. A sum tend to be better, always more and a subtraction like worst, lose of something, it is minus than previous. In fact to consilidate an act we need to align our thoughts and focus in one action (or one variable for time to resolve an equation or problem) . Besides linear intuition, unconsciouness thinking brings us a chaos of abstract process that we take time to learn and absorb as a real advantage. 
 The most systems in real world respects a non-linear dynamics. Linear 
 analysis techniques are currently in use (e.g., correlation, similarity) fail to detect 
 features and complexities in nonlinearities regimes. 
