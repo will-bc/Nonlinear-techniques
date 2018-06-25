@@ -12,7 +12,7 @@ Non-linear systems are part of complex systems. A large area of knowledge dealin
 
 Figure extracted from [5].
 
-Systems with complexity are sometimes counter intuitive, have unexpected results and non-trivial behavior.
+Complex systems are characterized by interactions of agents, constituents, elements or parts that on the dependence of some dimension, be it time or space, provides non-trivial, counter-intuitive answers and unexpected results. As a consequence they manifest unexpected "emergent" behaviors in which only the generalization of their parts does not explain the interaction of the sum or collective action of all the elements [6,7,8].
 
 
 ## Chaos
@@ -329,6 +329,12 @@ The science of non-linearity is whole new universe of tools to measure, validate
 4. Attractors rendered by David A. Ferreira, CGMK, disponível em: https://www.cgmonkeyking.com/projects/m05Jy.
 
 5. Wikipedia.
+
+6. Complex and Adaptive Dynamical Systems, Claudius Gros, 2015.
+
+7. Complex Systems: A Survey, M. E. J. Newman, DOI- 10.1119/1.3590372, 2011.
+
+8. Complex systems: physics beyond physics, Yurij Holovatch, Ralph Kenna, Stefan Thurner,DOI- 10.1088/1361-6404/aa5a87, 2017.
 
 
 
