@@ -25,7 +25,7 @@ The following example represent a way to identify an chaotic system:
 
 Logic behavior (or equation): 
 
-$$x_{i}= ax_{i-1}(1-x_{i-1})$$
+![png](eq1.png)
 
 If look for graphical behavior varying values of 'x' variable ('quantities, like evolution of time'), we notice it converge to single state (Y axis is 0.6): 
 
