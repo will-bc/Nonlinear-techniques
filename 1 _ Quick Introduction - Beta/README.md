@@ -12,7 +12,7 @@ Non-linear systems are part of complex systems. A large area of knowledge dealin
 
 Figure extracted from [5].
 
-Complex systems are characterized by interactions of agents, constituents, elements or parts that on the dependence of some dimension, be it time or space, provides non-trivial, counter-intuitive answers and unexpected results. As a consequence they manifest unexpected "emergent" behaviors in which only the generalization of their parts does not explain the interaction of the sum or collective action of all the elements [6,7,8].
+Complex systems are characterized by interactions of agents, constituents, elements or parts that on the dependence of some dimension, be it time or space, provides non-trivial, counter-intuitive answers and unexpected results. As a consequence they manifest unpredicted "emergent" behaviors in which only the generalization of their parts does not explain the interaction of the sum or collective action of all the elements [6,7,8].
 
 
 ## Chaos
